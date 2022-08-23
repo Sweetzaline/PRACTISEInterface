@@ -2,6 +2,7 @@ CLASS:
 It is a user - defined data type.
 Class can contain methods that have method body.(Non-abstract methods)
 Class inherits from a Parent, to consume the members of the Parent.
+We need of override modifier to implement the abstract Parent class.
 Class can inherit from a class and interface at a time.
 default scope- private
 Syntax:
@@ -15,8 +16,10 @@ INTERFACE:
 It is an user defined data type.
 Interface can contain methods that don't have method body.(Abstract methods)
 Every abstract method inside an interface should be implemente by the child class of the interface.
+No need of override modifier.
 A class can have an interface as a Parent. And the child class must implement the abstract methods of the Parent Class.
 Class inherits from an Interface, to implement the members of the Parent.
+Interface can inherit from another interface.
 default scope- public
 Syntax:
 <modifier> interface <name>
@@ -24,6 +27,7 @@ Syntax:
 By default, every member in interface is abstract, so no need to use abstract modifier.
 Syntax to write abstract method in Class:
 void Add(int a, int b);
+We can't declare any variables under interface.
 
 ABSTRACT METHOD:
 Method without method body is called as Abstract method.
