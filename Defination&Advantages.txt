@@ -1,0 +1,34 @@
+CLASS:
+It is a user - defined data type.
+Class can contain methods that have method body.(Non-abstract methods)
+Class inherits from a Parent, to consume the members of the Parent.
+Class can inherit from a class and interface at a time.
+default scope- private
+Syntax:
+<modifier> class <name>
+{ define members}
+We need to use abstract modifier to declare abstract member in a class.
+Syntax to write abstract method in Class:
+public abstract void Add(int a, int b);
+
+INTERFACE:
+It is an user defined data type.
+Interface can contain methods that don't have method body.(Abstract methods)
+Every abstract method inside an interface should be implemente by the child class of the interface.
+A class can have an interface as a Parent. And the child class must implement the abstract methods of the Parent Class.
+Class inherits from an Interface, to implement the members of the Parent.
+default scope- public
+Syntax:
+<modifier> interface <name>
+{ declare abstract members }
+By default, every member in interface is abstract, so no need to use abstract modifier.
+Syntax to write abstract method in Class:
+void Add(int a, int b);
+
+ABSTRACT METHOD:
+Method without method body is called as Abstract method.
+
+ABSTRACT CLASS:
+Abstract Class can contain methods that have method body. (Non-abstract method)
+Abstract Class can contain methods that don't have method body.(Abstract method)
+
