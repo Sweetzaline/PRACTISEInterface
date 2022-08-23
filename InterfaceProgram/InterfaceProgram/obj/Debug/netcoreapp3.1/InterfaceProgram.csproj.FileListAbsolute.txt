@@ -1,0 +1,14 @@
+C:\Users\Amit Pegu\Desktop\Interface\InterfaceProgram\InterfaceProgram\obj\Debug\netcoreapp3.1\InterfaceProgram.csproj.AssemblyReference.cache
+C:\Users\Amit Pegu\Desktop\Interface\InterfaceProgram\InterfaceProgram\obj\Debug\netcoreapp3.1\InterfaceProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amit Pegu\Desktop\Interface\InterfaceProgram\InterfaceProgram\obj\Debug\netcoreapp3.1\InterfaceProgram.AssemblyInfoInputs.cache
+C:\Users\Amit Pegu\Desktop\Interface\InterfaceProgram\InterfaceProgram\obj\Debug\netcoreapp3.1\InterfaceProgram.AssemblyInfo.cs
+C:\Users\Amit Pegu\Desktop\Interface\InterfaceProgram\InterfaceProgram\obj\Debug\netcoreapp3.1\InterfaceProgram.csproj.CoreCompileInputs.cache
+C:\Users\Amit Pegu\Desktop\Interface\InterfaceProgram\InterfaceProgram\bin\Debug\netcoreapp3.1\InterfaceProgram.exe
+C:\Users\Amit Pegu\Desktop\Interface\InterfaceProgram\InterfaceProgram\bin\Debug\netcoreapp3.1\InterfaceProgram.deps.json
+C:\Users\Amit Pegu\Desktop\Interface\InterfaceProgram\InterfaceProgram\bin\Debug\netcoreapp3.1\InterfaceProgram.runtimeconfig.json
+C:\Users\Amit Pegu\Desktop\Interface\InterfaceProgram\InterfaceProgram\bin\Debug\netcoreapp3.1\InterfaceProgram.runtimeconfig.dev.json
+C:\Users\Amit Pegu\Desktop\Interface\InterfaceProgram\InterfaceProgram\bin\Debug\netcoreapp3.1\InterfaceProgram.dll
+C:\Users\Amit Pegu\Desktop\Interface\InterfaceProgram\InterfaceProgram\bin\Debug\netcoreapp3.1\InterfaceProgram.pdb
+C:\Users\Amit Pegu\Desktop\Interface\InterfaceProgram\InterfaceProgram\obj\Debug\netcoreapp3.1\InterfaceProgram.dll
+C:\Users\Amit Pegu\Desktop\Interface\InterfaceProgram\InterfaceProgram\obj\Debug\netcoreapp3.1\InterfaceProgram.pdb
+C:\Users\Amit Pegu\Desktop\Interface\InterfaceProgram\InterfaceProgram\obj\Debug\netcoreapp3.1\InterfaceProgram.genruntimeconfig.cache
